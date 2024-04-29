@@ -24,7 +24,7 @@
                                 <rect key="frame" x="267" y="534" width="49" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <connections>
-                                    <action selector="switchImageOnOff:" destination="BYZ-38-t0r" eventType="valueChanged" id="psF-QM-9KD"/>
+                                    <action selector="switchImageOnOff:" destination="BYZ-38-t0r" eventType="valueChanged" id="NS2-IN-2f7"/>
                                 </connections>
                             </switch>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f0z-fg-FUf">
